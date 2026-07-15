@@ -1,1 +1,1 @@
-# qr-studio-public
+# QR Studio (by abdell1999)
