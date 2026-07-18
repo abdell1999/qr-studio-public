@@ -1,0 +1,1 @@
+import{i as a}from"./H_mOBb1M.js";const f=3e3,t=a([]);let r=0;function l(){function s(e){t.value=t.value.filter(o=>o.id!==e)}function n(e,o,u){const i=r++;t.value=[...t.value,{id:i,type:e,key:o,params:u}],setTimeout(()=>s(i),f)}return{toasts:t,notify:n,dismiss:s}}export{l as u};
