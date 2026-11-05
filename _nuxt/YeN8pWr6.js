@@ -1,0 +1,1 @@
+import{r as a}from"./CXVdvGoi.js";const r=3e3,t=a([]);let f=0;function l(){function s(e){t.value=t.value.filter(o=>o.id!==e)}function i(e,o,u){const n=f++;t.value=[...t.value,{id:n,type:e,key:o,params:u}],setTimeout(()=>s(n),r)}return{toasts:t,notify:i,dismiss:s}}export{l as u};
