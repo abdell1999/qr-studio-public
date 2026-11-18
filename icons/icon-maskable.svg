@@ -1,0 +1,33 @@
+<svg viewBox="0 0 512 512" width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Full-bleed background; glyph scaled into the central safe zone (80% circle) for maskable icons. -->
+  <rect x="0" y="0" width="512" height="512" fill="#6D28D9" />
+  <g transform="translate(256 256) scale(0.72) translate(-282 -275)">
+    <rect x="110" y="110" width="120" height="120" rx="28" fill="none" stroke="#FFFFFF" stroke-width="24" />
+    <rect x="146" y="146" width="48" height="48" rx="14" fill="#FFFFFF" />
+
+    <rect x="282" y="110" width="120" height="120" rx="28" fill="none" stroke="#FFFFFF" stroke-width="24" />
+    <rect x="318" y="146" width="48" height="48" rx="14" fill="#FFFFFF" />
+
+    <rect x="110" y="282" width="120" height="120" rx="28" fill="none" stroke="#FFFFFF" stroke-width="24" />
+    <rect x="146" y="318" width="48" height="48" rx="14" fill="#FFFFFF" />
+
+    <rect x="246" y="246" width="36" height="36" rx="10" fill="#FFFFFF" />
+    <rect x="110" y="246" width="36" height="36" rx="10" fill="#FFFFFF" fill-opacity="0.7" />
+    <rect x="282" y="246" width="36" height="36" rx="10" fill="#FFFFFF" fill-opacity="0.7" />
+    <rect x="246" y="110" width="20" height="36" rx="10" fill="#FFFFFF" />
+    <rect x="246" y="282" width="20" height="60" rx="10" fill="#FFFFFF" />
+    <rect x="246" y="162" width="20" height="68" rx="10" fill="#FFFFFF" fill-opacity="0.5" />
+    
+    <path d="M 342 245 
+             Q 342 342 245 342 
+             Q 342 342 342 439 
+             Q 342 342 439 342 
+             Q 342 342 342 245 Z" 
+          fill="#FDE047" /> <path d="M 425 245 
+             Q 425 275 395 275 
+             Q 425 275 425 305 
+             Q 425 275 455 275 
+             Q 425 275 425 245 Z" 
+          fill="#FFFFFF" fill-opacity="0.9" />
+  </g>
+</svg>
